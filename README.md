@@ -1,4 +1,4 @@
-👋 Olá, eu sou Everson Nascimento! 🚀
+<span style="font-size: 20px; font-weight: bold">👋 Olá, eu sou Everson Nascimento! 🚀</span>
 
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px"> </div>
 
