@@ -21,7 +21,7 @@
 🛠️ Ferramentas & DevOps
 <div> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> </div>
 📊 Estatísticas do GitHub
-<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EversonDoNascimento&show_icons=true&theme=dark" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonDoNascimento&layout=compact&theme=dark" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EversonDoNascimento&theme=dark" alt="GitHub Streak" /> </div>
+<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EversonDoNascimento&show_icons=true&theme=dark" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EversonDoNascimento&layout=compact&theme=dark" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EversonDoNascimento&theme=dark&cacheSeconds=86400" alt="GitHub Streak" /> </div>
 
 🤝 Vamos conectar!
 Se quiser bater um papo sobre tecnologia, colaborações ou apenas trocar uma ideia, me encontre nas redes:
