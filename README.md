@@ -38,6 +38,7 @@
 Se quiser bater um papo sobre tecnologia, colaborações ou apenas trocar uma ideia, me encontre nas redes:
 
 📧 E-mail: contato@codebyeverson.com.br
+
 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/everson-nascimento/)
 
 📂 Portfólio: [Clique aqui e acesse meu Portfólio](https://codebyeverson.com.br/)
