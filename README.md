@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px"> </div>
 
-💻 Graduando em Engenharia de Software e desenvolvedor Full Stack Web apaixonado por tecnologia e inovação.
+💻 Engenheiro de Software e desenvolvedor Full Stack Web apaixonado por tecnologia e inovação.
 
 📌 Sempre buscando aprender, evoluir e compartilhar conhecimento.
 
